@@ -103,21 +103,3 @@ if __name__ == '__main__':
         t += 1
 
     print("Ready to take off at t =", t, sep=" ")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    # while is_cl
-
-
